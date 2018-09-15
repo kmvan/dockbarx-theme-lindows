@@ -6,9 +6,9 @@
     <color3 name="Active window text" default="#00FF00" opacity="50" />
     <color4 name="Minimized window text" default="#9C9C9C" opacity="no" />
     <color5 name="Active color" default="#FFFF75" opacity="63" />
-    <color6 name="Bottom border color" default="#FFFFFF" opacity="20" />
-    <color7 name="Active Bottom border color" default="#00FF00" opacity="no" />
-    <color8 name="Minimized Bottom border color" default="#FFFFFF" opacity="20" />
+    <color6 name="Bottom border color" default="#FFFFFF" opacity="100" />
+    <color7 name="Active Bottom border color" default="#00FF00" opacity="100" />
+    <color8 name="Minimized Bottom border color" default="#FFFFFF" opacity="100" />
 </colors>
 
 <pixmaps>
@@ -40,34 +40,34 @@
         <glow color="color1" opacity="10"/>
         <if type="all_minimized">
             <pixmap name="attention_box">
-                <fill color="color8" opacity="color8"/>
+                <fill color="icon_average" opacity="100" />
                 <alpha_mask mask="mask-button1"/>
             </pixmap>
             <composite bg="attention_box" fg="self"/>
         </if>
         <if type="blink">
             <pixmap name="attention_box">
-                <fill color="color7" opacity="color7"/>
+                <fill color="icon_average" opacity="100" />
                 <alpha_mask mask="mask-button1-active"/>
             </pixmap>
             <composite bg="attention_box" fg="self"/>
         </if>
         <if type="needs_attention">
             <pixmap name="attention_box">
-                <fill color="color7" opacity="color7"/>
+                <fill color="icon_average" opacity="100" />
                 <alpha_mask mask="mask-button1-active"/>
             </pixmap>
             <composite bg="attention_box" fg="self"/>
         </if>
         <if windows="1">
             <pixmap name="attention_box">
-                <fill color="color8" opacity="color8"/>
+                <fill color="icon_average" opacity="100" />
                 <alpha_mask mask="mask-button1"/>
             </pixmap>
             <composite bg="attention_box" fg="self" />
             <if type="active">
                 <pixmap name="attention_box">
-                    <fill color="color7" opacity="color7"/>
+                    <fill color="icon_average" opacity="70" />
                     <alpha_mask mask="mask-button1-active"/>
                 </pixmap>
                 <composite bg="attention_box" fg="self"/>
@@ -75,13 +75,13 @@
         </if>
         <if windows="2">
             <pixmap name="attention_box">
-                <fill color="color8" opacity="color8"/>
+                <fill color="icon_average" opacity="100" />
                 <alpha_mask mask="mask-button2"/>
             </pixmap>
             <composite bg="attention_box" fg="self" xoffset="xo2" yoffset="yo2" />
             <if type="active">
                 <pixmap name="attention_box">
-                    <fill color="color7" opacity="color7"/>
+                    <fill color="icon_average" opacity="100" />
                     <alpha_mask mask="mask-button2-active"/>
                 </pixmap>
                 <composite bg="attention_box" fg="self" />
@@ -89,13 +89,13 @@
         </if>
         <if windows="3">
             <pixmap name="attention_box">
-                <fill color="color8" opacity="color8"/>
+                <fill color="icon_average" opacity="100" />
                 <alpha_mask mask="mask-button3"/>
             </pixmap>
             <composite bg="attention_box" fg="self" xoffset="xo3" yoffset="yo3" />
             <if type="active">
                 <pixmap name="attention_box">
-                    <fill color="color7" opacity="color7"/>
+                    <fill color="icon_average" opacity="100" />
                     <alpha_mask mask="mask-button3-active"/>
                 </pixmap>
                 <composite bg="attention_box" fg="self" />
