@@ -1,4 +1,4 @@
-<theme name = "Lindows_v1.0.3">
+<theme name = "Lindows_v1.0.4">
 <popup_style file_name="DBX.tar.gz" />
 <colors>
     <color1 name="Popup background" default="#000000" opacity="80" />
@@ -29,7 +29,7 @@
     <set name="as" left="90" right="-90" up="0" down="0" />
 </sets>
 
-<button_pixmap gap = "0" aspect_ratio="1" aspect_ratio_v="1" windows_cnt="3">
+<button_pixmap gap = "1" aspect_ratio="1" aspect_ratio_v="1" windows_cnt="3">
     <get_icon size="-17" />
     <correct_size />
     <if type="!launcher">

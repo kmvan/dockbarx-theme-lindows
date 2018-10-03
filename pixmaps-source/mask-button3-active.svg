@@ -51,8 +51,8 @@
      inkscape:measure-start="10,56.6314"
      inkscape:measure-end="105,56.6314"
      inkscape:zoom="6.7425131"
-     inkscape:cx="50.878114"
-     inkscape:cy="5.194174"
+     inkscape:cx="58.367903"
+     inkscape:cy="26.551196"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -90,25 +90,25 @@
      id="layer2"
      inkscape:label="Layer 2">
     <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:4.67039156"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:4.46939611"
        id="rect838"
-       width="31.667"
+       width="29"
        height="4"
        x="0"
        y="95" />
     <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:4.67039156"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:4.46939611"
        id="rect838-3"
-       width="31.667"
+       width="29"
        height="4"
-       x="83.333"
+       x="86"
        y="95" />
     <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:4.67039156"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:4.46939611"
        id="rect838-3-7"
-       width="31.667"
+       width="29"
        height="4"
-       x="41.666504"
+       x="43"
        y="95" />
   </g>
 </svg>

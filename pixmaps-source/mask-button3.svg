@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,24 +48,24 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:measure-start="10,56.6314"
-     inkscape:measure-end="105,56.6314"
+     inkscape:measure-start="14,31.8814"
+     inkscape:measure-end="101,31.8814"
      inkscape:zoom="9.5353535"
-     inkscape:cx="33.529592"
-     inkscape:cy="9.3839321"
+     inkscape:cx="59.380757"
+     inkscape:cy="30.987746"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer2">
     <sodipodi:guide
-       position="10,35.027542"
+       position="14,35.027542"
        orientation="1,0"
        id="guide840"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="105,26.637712"
+       position="101,26.637712"
        orientation="1,0"
        id="guide842"
        inkscape:locked="false"
@@ -115,25 +115,25 @@
      id="layer2"
      inkscape:label="Layer 2">
     <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:4.14973021"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:3.68060255"
        id="rect838"
-       width="25"
+       width="19.667"
        height="4"
-       x="10"
+       x="14"
        y="95" />
     <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:4.14973021"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:3.68060255"
        id="rect838-7"
-       width="25"
+       width="19.667"
        height="4"
-       x="80"
+       x="81.333"
        y="95" />
     <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:4.14973021"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:3.68060255"
        id="rect838-7-5"
-       width="25"
+       width="19.667"
        height="4"
-       x="45"
+       x="47.666504"
        y="95" />
   </g>
 </svg>

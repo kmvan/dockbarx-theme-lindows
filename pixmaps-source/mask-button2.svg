@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,12 +49,12 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="9.5353535"
-     inkscape:cx="38.304232"
-     inkscape:cy="20.610445"
+     inkscape:cx="54.611965"
+     inkscape:cy="20.295826"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer2">
     <sodipodi:guide
        position="57.5,35.298411"
        orientation="1,0"
@@ -63,16 +63,30 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="52.5,24.540254"
+       position="50.5,24.540254"
        orientation="1,0"
        id="guide842"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="62.5,22.442797"
+       position="64.5,22.442797"
        orientation="1,0"
        id="guide844"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="14,16.150424"
+       orientation="1,0"
+       id="guide818"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="101,13.948093"
+       orientation="1,0"
+       id="guide820"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
@@ -87,18 +101,18 @@
      id="layer2"
      inkscape:label="Layer 2">
     <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:1.27779591"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:1.18416834"
        id="rect838"
-       width="42.5"
+       width="36.5"
        height="4"
-       x="10"
+       x="14"
        y="95" />
     <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:1.27779591"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:1.18416834"
        id="rect838-3"
-       width="42.5"
+       width="36.5"
        height="4"
-       x="62.5"
+       x="64.5"
        y="95" />
   </g>
 </svg>
